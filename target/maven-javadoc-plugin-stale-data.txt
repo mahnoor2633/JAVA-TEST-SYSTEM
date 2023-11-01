@@ -1,0 +1,48 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'11'
+-sourcepath
+'C:/Users/marsh/Documents/NetBeansProjects/Course/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/marsh/Documents/NetBeansProjects/Course/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'OOP_Project 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' 'C:/Users/marsh/Documents/NetBeansProjects/Course/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'OOP_Project 1.0-SNAPSHOT API'
+com.mycompany.course
+C:\Users\marsh\Documents\NetBeansProjects\Course\src\main\java = 1686853944188
+C:\Users\marsh\Documents\NetBeansProjects\Course\target\site\apidocs\allclasses-index.html = 1688145228255
+C:\Users\marsh\Documents\NetBeansProjects\Course\target\site\apidocs\allclasses.html = 1688145228349
+C:\Users\marsh\Documents\NetBeansProjects\Course\target\site\apidocs\allpackages-index.html = 1688145228259
+C:\Users\marsh\Documents\NetBeansProjects\Course\target\site\apidocs\constant-values.html = 1688145227948
+C:\Users\marsh\Documents\NetBeansProjects\Course\target\site\apidocs\deprecated-list.html = 1688145228301
+C:\Users\marsh\Documents\NetBeansProjects\Course\target\site\apidocs\element-list = 1688145227839
+C:\Users\marsh\Documents\NetBeansProjects\Course\target\site\apidocs\help-doc.html = 1688145228359
+C:\Users\marsh\Documents\NetBeansProjects\Course\target\site\apidocs\index-all.html = 1688145228243
+C:\Users\marsh\Documents\NetBeansProjects\Course\target\site\apidocs\index.html = 1688145228352
+C:\Users\marsh\Documents\NetBeansProjects\Course\target\site\apidocs\member-search-index.js = 1688145228243
+C:\Users\marsh\Documents\NetBeansProjects\Course\target\site\apidocs\member-search-index.zip = 1688145228243
+C:\Users\marsh\Documents\NetBeansProjects\Course\target\site\apidocs\overview-tree.html = 1688145228176
+C:\Users\marsh\Documents\NetBeansProjects\Course\target\site\apidocs\package-search-index.js = 1688145228199
+C:\Users\marsh\Documents\NetBeansProjects\Course\target\site\apidocs\package-search-index.zip = 1688145228239
+C:\Users\marsh\Documents\NetBeansProjects\Course\target\site\apidocs\script.js = 1688145228365
+C:\Users\marsh\Documents\NetBeansProjects\Course\target\site\apidocs\search.js = 1688145228368
+C:\Users\marsh\Documents\NetBeansProjects\Course\target\site\apidocs\serialized-form.html = 1688145227979
+C:\Users\marsh\Documents\NetBeansProjects\Course\target\site\apidocs\stylesheet.css = 1688145228361
+C:\Users\marsh\Documents\NetBeansProjects\Course\target\site\apidocs\type-search-index.js = 1688145228239
+C:\Users\marsh\Documents\NetBeansProjects\Course\target\site\apidocs\type-search-index.zip = 1688145228243
